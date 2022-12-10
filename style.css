@@ -1,0 +1,60 @@
+.header{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 35px;
+    letter-spacing: 3px;
+    color: green;
+}
+.input{
+    text-align: center;
+}
+#firstName{
+    width: 300px;
+    height: 25px;
+    background-color: lightgray;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+#lastName{
+    width: 300px;
+    height: 25px;
+    background-color: lightgray;
+    border: none;
+    outline: none;
+    border-radius: 10px; 
+}
+#phoneNumber{
+    width: 300px;
+    height: 25px;
+    background-color: lightgray;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+#bio{
+    width: 300px;
+    height: 25px;
+    background-color: lightgray;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+#password{
+    width: 300px;
+    height: 25px;
+    background-color: lightgray;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+#but{
+    width: 150px;
+    height: 30px;
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
